@@ -2,8 +2,8 @@
 
 Este repositório contém uma tarefa acadêmica prática desenvolvida no **Cisco Packet Tracer**. O objetivo principal do projeto é aplicar configurações iniciais de segurança em equipamentos de rede, especificamente a configuração e criptografia de senhas utilizando a Interface de Linha de Comando (CLI) do Cisco IOS.
 
-## 🗺️ Topolog<img width="1248" height="720" alt="Criptografia de senhas" src="https://github.com/user-attachments/assets/b620a660-27bc-485d-9215-56fe4d197d94" />
-ia da Rede e Execução
+## 🗺️ Topologia da Rede e Execução<img width="1248" height="720" alt="Criptografia de senhas" src="https://github.com/user-attachments/assets/b620a660-27bc-485d-9215-56fe4d197d94" />
+
 
 ![Topologia e CLI do Projeto](Criptografia de senhas.png)
 
